@@ -49,10 +49,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Nexogen.HR.Logger.UnitTests\Nexogen.HR.Logger.UnitTests.csproj">
-      <Project>{808c4329-ff5c-4ec4-b283-8bf00dd9deaa}</Project>
-      <Name>Nexogen.HR.Logger.UnitTests</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Nexogen.HR.Logger\Nexogen.HR.Logger.csproj">
       <Project>{e9847a09-bd36-4f8d-b42e-e426f156040d}</Project>
       <Name>Nexogen.HR.Logger</Name>
